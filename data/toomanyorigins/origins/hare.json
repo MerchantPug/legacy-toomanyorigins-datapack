@@ -1,0 +1,15 @@
+{
+  "powers": [
+    "legacytoomanyorigins:bunny_hop",
+    "legacytoomanyorigins:bunny_hop_active",
+    "legacytoomanyorigins:sugary_delicacy",
+    "legacytoomanyorigins:large_leap",
+    "legacytoomanyorigins:lightweight",
+    "origins:vegetarian",
+    "legacytoomanyorigins:lucky_footing"
+  ],
+  "icon": "minecraft:rabbit_foot",
+  "order": 5,
+  "impact": 1,
+  "description": "origin.legacytoomanyorigins.hare.description"
+}
