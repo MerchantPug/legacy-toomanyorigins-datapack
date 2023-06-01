@@ -7,14 +7,9 @@
       "type": "origins:and",
       "actions": [
         {
-          "type": "origins:damage",
-          "source": {
-            "name": "overheat",
-            "bypasses_armor": "true",
-            "fire": "true",
-            "unblockable": "true"
-          },
-          "amount": 2
+            "type": "origins:damage",
+            "damage_type": "toomanyorigins:overheat",
+            "amount": 2
         },
         {
           "type": "origins:if_else",
