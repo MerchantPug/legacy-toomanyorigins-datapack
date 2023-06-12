@@ -2,8 +2,7 @@
   "loading_priority": 1,
   "powers": [
     "legacytoomanyorigins:hover",
-    "legacytoomanyorigins:hover_toggle",
-    "legacytoomanyorigins:smoke_sensitivity",
+    "legacytoomanyorigins:smoke_exhaustion",
     "toomanyorigins:pollination",
     "legacytoomanyorigins:calming_aura",
     "legacytoomanyorigins:expendable",
