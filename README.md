@@ -3,7 +3,7 @@ This is the repository for the Legacy TooManyOrigins datapack, I made this repos
 
 This pack should be included inside any other versions of the TooManyOrigins beta.
 
-There are two flavours of this repo:
+There are two flavours of this [repo](https://github.com/MerchantPug/legacy-toomanyorigins-datapack/):
 - `/main` which includes the datapack at the root directory with everything in it, this is submoduled into TooManyOrigins 1.0.0 and above.
 - `/all` which includes each individual datapack for each individual origin, if you'd like a specific origin's old version instead of all of them, they will be contained here.
 
