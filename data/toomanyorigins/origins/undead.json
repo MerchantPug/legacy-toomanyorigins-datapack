@@ -10,7 +10,8 @@
     "toomanyorigins:unholy",
     "legacytoomanyorigins:zombify_hit",
     "legacytoomanyorigins:undead_immunities",
-    "legacytoomanyorigins:undead_callback"
+    "legacytoomanyorigins:undead_callback",
+    "legacytoomanyorigins:take_damage_from_ender_dragon_fireball"
   ],
   "icon": "minecraft:rotten_flesh",
   "order": 3,
