@@ -1,6 +1,6 @@
 {
   "loading_priority": 1,
   "type": "toomanyorigins:prevent_bee_anger",
-  "name": "power.legacytoomanyorigins.beekeeper.name",
+  "name": "power.toomanyorigins.beekeeper.name",
   "description": "power.legacytoomanyorigins.beekeeper.description"
 }
