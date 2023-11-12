@@ -1,0 +1,20 @@
+{
+  "powers": [
+    "legacyundead:burn_timer",
+    "legacyundead:deathly_bite",
+    "legacyundead:no_helmet_burn",
+    "legacyundead:opposite_day",
+    "legacyundead:cannibalism",
+    "legacyundead:lacerated_liver",
+    "legacyundead:damage_helmet_when_in_sun",
+    "toomanyorigins:unholy",
+    "legacyundead:zombify_hit",
+    "legacyundead:undead_immunities",
+    "legacyundead:undead_callback",
+    "legacyundead:take_damage_from_ender_dragon_fireball"
+  ],
+  "icon": "minecraft:rotten_flesh",
+  "order": 3,
+  "impact": 2,
+  "description": "origin.legacytoomanyorigins.undead.description"
+}

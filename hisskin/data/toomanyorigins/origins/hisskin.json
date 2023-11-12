@@ -1,0 +1,14 @@
+{
+  "loading_priority": 1,
+  "powers": [
+    "legacyhisskin:overheat",
+    "legacyhisskin:conductor",
+    "legacyhisskin:blast_immunity",
+    "legacyhisskin:sneaking_steps",
+    "legacyhisskin:ailurophobia"
+  ],
+  "icon": "minecraft:gunpowder",
+  "order": 6,
+  "impact": 1,
+  "description": "origin.legacytoomanyorigins.hisskin.description"
+}

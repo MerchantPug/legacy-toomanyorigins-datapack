@@ -1,0 +1,17 @@
+{
+  "powers": [
+    "legacywithered:wither_toxins",
+    "origins:nether_spawn",
+    "legacywithered:black_thumb",
+    "legacywithered:weariness",
+    "legacywithered:scorched_structure",
+    "legacywithered:soul_shield",
+    "legacywithered:soul_shield_overlay",
+    "legacywithered:wither_immunity",
+    "toomanyorigins:unholy"
+  ],
+  "icon": "minecraft:wither_rose",
+  "order": 4,
+  "impact": 3,
+  "description": "origin.legacytoomanyorigins.withered.description"
+}
