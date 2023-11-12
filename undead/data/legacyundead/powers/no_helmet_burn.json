@@ -23,7 +23,7 @@
             {
               "type": "origins:ingredient",
               "ingredient": {
-                "tag": "legacyundead:ignore_ head_slot"
+                "tag": "legacyundead:ignore_head_slot"
               }
             }
           ]
