@@ -5,7 +5,5 @@
     "attribute": "minecraft:generic.max_health",
     "value": -4.0,
     "operation": "addition"
-  },
-  "name": "power.legacytoomanyorigins.lightweight.name",
-  "description": "power.legacytoomanyorigins.lightweight.description"
+  }
 }

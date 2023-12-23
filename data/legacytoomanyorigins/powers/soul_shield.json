@@ -33,7 +33,5 @@
     "type": "origins:relative_health",
     "comparison": "<=",
     "compare_to": 0.5
-  },
-  "name": "power.legacytoomanyorigins.soul_shield.name",
-  "description": "power.legacytoomanyorigins.soul_shield.description"
+  }
 }

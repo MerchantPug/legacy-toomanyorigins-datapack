@@ -50,7 +50,5 @@
       "minecraft:campfire_cosy_smoke",
       "minecraft:campfire_signal_smoke"
     ]
-  },
-  "name": "power.legacytoomanyorigins.smoke_sensitivity.name",
-  "description": "power.legacytoomanyorigins.smoke_exhaustion.description"
+  }
 }

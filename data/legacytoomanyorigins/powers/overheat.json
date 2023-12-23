@@ -180,7 +180,5 @@
         ]
       }
     }
-  },
-  "name": "power.legacytoomanyorigins.overheat.name",
-  "description": "power.legacytoomanyorigins.overheat.description"
+  }
 }

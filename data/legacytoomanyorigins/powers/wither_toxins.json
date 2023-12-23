@@ -21,7 +21,5 @@
   "target_condition": {
     "type": "toomanyorigins:can_have_effect",
     "effect": "minecraft:wither"
-  },
-  "name": "power.legacytoomanyorigins.wither_toxins.name",
-  "description": "power.legacytoomanyorigins.wither_toxins.description"
+  }
 }

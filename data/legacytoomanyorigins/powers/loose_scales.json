@@ -10,7 +10,5 @@
   "modifier": {
     "value": 0.35,
     "operation": "multiply_total"
-  },
-  "name": "power.legacytoomanyorigins.loose_scales.name",
-  "description": "power.legacytoomanyorigins.loose_scales.description"
+  }
 }

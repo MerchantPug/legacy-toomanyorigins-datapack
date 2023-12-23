@@ -5,6 +5,7 @@
     "operation": "multiply_total",
     "value": -1
   },
-  "name": "power.toomanyorigins.calming_aura.name",
-  "description": "power.legacytoomanyorigins.calming_aura.description"
+  "name": {
+    "translate": "power.toomanyorigins.calming_aura.name"
+  }
 }

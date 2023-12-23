@@ -17,5 +17,7 @@
   "icon": "minecraft:rotten_flesh",
   "order": 3,
   "impact": 2,
-  "description": "origin.legacytoomanyorigins.undead.description"
+  "description": {
+    "translate": "origin.legacytoomanyorigins.undead.description"
+  }
 }

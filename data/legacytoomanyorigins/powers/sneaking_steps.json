@@ -5,7 +5,5 @@
     "attribute": "minecraft:generic.movement_speed",
     "value": -0.05,
     "operation": "multiply_base"
-  },
-  "name": "power.legacytoomanyorigins.sneaking_steps.name",
-  "description": "power.legacytoomanyorigins.sneaking_steps.description"
+  }
 }

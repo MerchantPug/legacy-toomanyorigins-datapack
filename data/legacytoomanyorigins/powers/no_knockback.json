@@ -5,7 +5,5 @@
     "attribute": "minecraft:generic.knockback_resistance",
     "value": 1,
     "operation": "addition"
-  },
-  "name": "power.legacytoomanyorigins.no_knockback.name",
-  "description": "power.legacytoomanyorigins.no_knockback.description"
+  }
 }

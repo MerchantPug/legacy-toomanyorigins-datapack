@@ -5,7 +5,5 @@
     "attribute": "minecraft:generic.max_health",
     "value": -6.0,
     "operation": "addition"
-  },
-  "name": "power.legacytoomanyorigins.expendable.name",
-  "description": "power.legacytoomanyorigins.expendable.description"
+  }
 }

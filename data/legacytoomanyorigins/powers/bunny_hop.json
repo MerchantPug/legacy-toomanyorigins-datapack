@@ -8,7 +8,5 @@
     "bar_index": 7
   },
   "increase_per_tick": 0.00025,
-  "tick_rate": 10,
-  "name": "power.legacytoomanyorigins.bunny_hop.name",
-  "description": "power.legacytoomanyorigins.bunny_hop.description"
+  "tick_rate": 10
 }

@@ -40,7 +40,5 @@
       ],
       "radius": 5.0
     }
-  },
-  "name": "power.legacytoomanyorigins.smoke_sensitivity.name",
-  "description": "power.legacytoomanyorigins.smoke_sensitivity.description"
+  }
 }

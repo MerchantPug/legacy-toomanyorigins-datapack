@@ -7,7 +7,5 @@
     "bar_index": 5,
     "inverted": true
   },
-  "hidden": true,
-  "name": "power.legacytoomanyorigins.cannibalism.name",
-  "description": "power.legacytoomanyorigins.cannibalism.description"
+  "hidden": true
 }

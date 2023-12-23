@@ -249,7 +249,5 @@
         "key": "key.origins.primary_active"
       }
     }
-  ],
-  "name": "power.legacytoomanyorigins.hover.name",
-  "description": "power.legacytoomanyorigins.hover.description"
+  ]
 }

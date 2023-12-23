@@ -5,7 +5,5 @@
     "comparison": ">",
     "compare_to": 10
   },
-  "message": "toomanyorigins.hare_sleep_fail",
-  "name": "power.legacytoomanyorigins.photophobia.name",
-  "description": "power.legacytoomanyorigins.photophobia.description"
+  "message": "toomanyorigins.hare_sleep_fail"
 }

@@ -13,5 +13,7 @@
   "icon": "minecraft:honeycomb",
   "order": 7,
   "impact": 1,
-  "description": "origin.legacytoomanyorigins.swarm.description"
+  "description": {
+    "translate": "origin.legacytoomanyorigins.swarm.description"
+  }
 }

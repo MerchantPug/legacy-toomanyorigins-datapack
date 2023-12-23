@@ -10,5 +10,7 @@
   "icon": "minecraft:gunpowder",
   "order": 6,
   "impact": 1,
-  "description": "origin.legacytoomanyorigins.hisskin.description"
+  "description": {
+    "translate": "origin.legacytoomanyorigins.hisskin.description"
+  }
 }

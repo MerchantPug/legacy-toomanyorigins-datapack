@@ -31,7 +31,5 @@
       "sprite": "origins:textures/gui/badge/info.png",
       "text": "legacytoomanyorigins.gui.badge.no_furnace"
     }
-  ],
-  "name": "power.legacytoomanyorigins.dragon_breath.name",
-  "description": "power.legacytoomanyorigins.dragon_breath.description"
+  ]
 }

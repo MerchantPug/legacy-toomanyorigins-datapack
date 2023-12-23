@@ -14,5 +14,7 @@
   "icon": "minecraft:wither_rose",
   "order": 4,
   "impact": 3,
-  "description": "origin.legacytoomanyorigins.withered.description"
+  "description": {
+    "translate": "origin.legacytoomanyorigins.withered.description"
+  }
 }

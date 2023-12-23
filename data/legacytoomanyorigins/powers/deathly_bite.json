@@ -41,7 +41,5 @@
   "target_condition": {
     "type": "toomanyorigins:can_have_effect",
     "effect": "toomanyorigins:zombifying"
-  },
-  "name": "power.legacytoomanyorigins.deathly_bite.name",
-  "description": "power.legacytoomanyorigins.deathly_bite.description"
+  }
 }

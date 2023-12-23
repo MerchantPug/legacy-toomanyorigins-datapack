@@ -2,7 +2,5 @@
   "type": "origins:effect_immunity",
   "effects": [
     "minecraft:wither"
-  ],
-  "name": "power.legacytoomanyorigins.wither_immunity.name",
-  "description": "power.legacytoomanyorigins.wither_immunity.description"
+  ]
 }

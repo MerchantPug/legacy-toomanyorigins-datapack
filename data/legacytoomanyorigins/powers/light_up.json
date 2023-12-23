@@ -50,7 +50,5 @@
       "sprite": "origins:textures/gui/badge/info.png",
       "text": "legacytoomanyorigins.gui.badge.furnace"
     }
-  ],
-  "name": "power.legacytoomanyorigins.light_up.name",
-  "description": "power.legacytoomanyorigins.light_up.description"
+  ]
 }

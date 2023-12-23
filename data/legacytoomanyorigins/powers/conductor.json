@@ -29,7 +29,5 @@
       "type": "origins:status_effect",
       "effect": "toomanyorigins:charged"
     }
-  },
-  "name": "power.legacytoomanyorigins.conductor.name",
-  "description": "power.legacytoomanyorigins.conductor.description"
+  }
 }

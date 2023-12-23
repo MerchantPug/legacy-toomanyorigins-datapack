@@ -12,5 +12,7 @@
   "icon": "minecraft:rabbit_foot",
   "order": 5,
   "impact": 1,
-  "description": "origin.legacytoomanyorigins.hare.description"
+  "description": {
+    "translate": "origin.legacytoomanyorigins.hare.description"
+  }
 }
